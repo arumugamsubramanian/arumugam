@@ -24,13 +24,9 @@ youtube_username: "@arumugamofcl"
 # about_title: About Me
 about_profile_image: images/profile_pic.png
 about_content: |
-  My name is Arumugam Subramanian. 
+  👋 My name is Arumugam Subramanian. I'm a seasoned specialist with expertise in Build, Continuous Integration, and Application Lifecycle Management (ALM) tools. My passion lies in implementing agile development methodologies and automating the Environment Automation lifecycle management process.
   
-  👋 About Me
-  
-  I'm a seasoned specialist with expertise in Build, Continuous Integration, and Application Lifecycle Management (ALM) tools. My passion lies in implementing agile development methodologies and automating the Environment Automation lifecycle management process.
-  
-  🚀 Key Achievements
+  🚀 *Key Achievements*
   
   I've designed and implemented a robust release lifecycle framework for various platforms, including mobile apps and server applications.
   
@@ -91,8 +87,11 @@ about_content: |
   I share my insights and knowledge through various platforms:
 
   ✍️ Visit my blog: arumugamsubramanian.hashnode.dev
+  
   ⭐ GitHub: github.com/arumugamsubramanian
+  
   🎬 Check out my YouTube videos: youtube.com/@arumugamofcl
+  
   Let's connect, collaborate, and explore the exciting world of DevOps and software engineering together! 🌟
 
 # Footer
