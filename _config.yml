@@ -24,7 +24,76 @@ youtube_username: "@arumugamofcl"
 # about_title: About Me
 about_profile_image: images/profile_pic.png
 about_content: |
-  Hi, my name is Arumugam Subramanian
+  My name is Arumugam Subramanian. 
+  
+  👋 About Me
+  
+  I'm a seasoned specialist with expertise in Build, Continuous Integration, and Application Lifecycle Management (ALM) tools. My passion lies in implementing agile development methodologies and automating the Environment Automation lifecycle management process.
+  
+  🚀 Key Achievements
+  
+  I've designed and implemented a robust release lifecycle framework for various platforms, including mobile apps and server applications.
+  
+  My mission is to assist organizations in delivering valuable, high-quality software consistently and reliably by employing effective release engineering practices.
+  
+  💡 Technical Proficiency
+
+  My technical skill set spans a wide range of areas:
+  
+  Scripting
+  Continuous Integration tools
+  Continuous Delivery Processes
+  Software Configuration Management
+  Build/Release Management
+  Configuration Management
+  
+  🔧 DevOps Expertise
+  
+  I specialize in creating and optimizing DevOps toolchains to enable continuous releases and automate end-to-end pipelines.
+  
+  🛠️ Toolbox
+
+  I have hands-on experience with an extensive set of tools, including:
+  
+  Git
+  Subversion
+  Jenkins
+  Bamboo
+  TeamCity
+  Nexus Repository
+  Android Studio
+  XCode
+  uDeploy
+  Puppet
+  Chef
+  HP Operations Orchestration
+  HP Server Automation
+  HP Cloud Service Automation
+  Jira Agile Software
+  Apache Ivy
+  Ant
+  Gradle
+  Crucible
+  FishEye
+  Sonar
+  Selenium
+  FitNesse
+  WebSphere
+  VMware
+  vCenter Server
+  Docker
+  Kubernetes
+  AWS
+  Azure
+  
+  📚 Connect and Learn More
+
+  I share my insights and knowledge through various platforms:
+
+  ✍️ Visit my blog: arumugamsubramanian.hashnode.dev
+  ⭐ GitHub: github.com/arumugamsubramanian
+  🎬 Check out my YouTube videos: youtube.com/@arumugamofcl
+  Let's connect, collaborate, and explore the exciting world of DevOps and software engineering together! 🌟
 
 # Footer
 footer_show_references: false
