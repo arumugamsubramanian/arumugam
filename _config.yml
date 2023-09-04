@@ -1,0 +1,36 @@
+# Site
+repository: arumugamsubramanian/arumugam
+favicon: images/favicon.ico
+
+version: 2
+
+# Personal info
+name: Arumugam Subramanian
+title: Senior DevOps Consultant
+email: arumugamofcl@gmail.com
+
+# Social links
+twitter_username: Arumugam_S
+github_username:  arumugamsubramanian
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+#instagram_username: jameswgrant
+linkedin_username: aarumugams
+# pinterest_username:
+youtube_username: "@arumugamofcl"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile_pic.png
+about_content: |
+  Hi, my name is Arumugam Subramanian
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
